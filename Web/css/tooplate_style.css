@@ -1,0 +1,54 @@
+/*
+Template 2027 Melody
+http://www.tooplate.com/view/2027-melody
+*/
+
+body {
+	margin: 0;
+	padding: 0;
+	color: #afa698;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 13px;
+	line-height: 1.7em; 
+	background-color: #291a07;
+	background-image: url(../images/ltuc.jpg);
+	background-position: top center;
+	background-repeat: no-repeat
+}
+
+
+p { 
+	margin: 0 0 10px 0; 
+	padding: 0; 
+}
+
+
+h1, h2, h3, h4, h5, h6 { color: #1c1b1a; font-weight: normal; font-family: Georgia, "Times New Roman", Times, serif }
+h1 { font-size: 34px; margin: 0 0 20px; padding: 5px 0 }
+h2 { font-size: 28px; text-align: center; margin: 0 0 20px; padding: 5px 0 20px; font-weight: 700; background: url(../images/tooplate_h2.png) bottom center no-repeat }
+h3 { font-size: 24px; margin: 0 0 15px; padding: 0; }
+h4 { font-size: 18px; margin: 0 0 15px; padding: 0; }
+h5 { font-size: 16px; margin: 0 0 10px; padding: 0;  }
+h6 { font-size: 14px; margin: 0 0 5px; padding: 0; }
+
+
+
+
+
+#tooplate_wrapper {
+	width: 1000px;
+	margin: 0 auto;
+	background: url(../images/ltuc.jpg) center top no-repeat
+}
+
+
+.data
+{
+	height:100%;
+	background-color: rgba(244, 244, 244, 0.8);
+	border:5px solid #291a07;
+	color:black;
+	padding: 20px
+}
+
+

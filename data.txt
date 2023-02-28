@@ -1,0 +1,3 @@
+Download Git Bash for Windows using this link: https://git-scm.com/download/win
+gitHub:https://github.com
+Public Repository for Fork : https://github.com/RaJarrar/git_and_gitHub_workshop
